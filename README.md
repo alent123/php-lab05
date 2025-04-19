@@ -8,8 +8,9 @@ Este repositorio contiene la solución a las tres preguntas del laboratorio de P
 - `pregunta2.php`: Generación del Triángulo de Pascal.
 - `pregunta3.php`: Cálculo de ganancia por venta de uvas según tipo y tamaño.
 
-## Autor
+## Estudiante
 
-Alumno: [Tu nombre completo]  
+Alumno: Santiago Agustin Salas Perez
+Docente: Nilton Cesar Mercado Chavez
 Curso: Desarrollo de Aplicaciones en Internet  
 Institución: TECSUP  
